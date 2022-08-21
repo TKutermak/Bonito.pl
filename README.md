@@ -12,8 +12,8 @@ Fan of fantasy and Sci-Fi worlds. Lover of logic and strategic games. I am alway
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 14.08.2022 
-Excel średniozaawansowany z wprowadzeniem do VBA 31.05.2019
+* Szkolenie Indywidualne tester manualny 14.08.2022 
+* Excel średniozaawansowany z wprowadzeniem do VBA 31.05.2019
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS

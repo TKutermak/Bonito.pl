@@ -28,7 +28,7 @@ Fan of fantasy and Sci-Fi worlds. Lover of logic and strategic games. I am alway
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR Bonito.pl
 * [Test cases](https://drive.google.com/file/d/1Q0uebzwHVVrsQ6GbYEDSejiJsYa06v0z/view?usp=sharing) 
-## MY TEST CASE EXAMPLES FOR Bonito.pl 
+## MY TEST CASE EXAMPLES FOR Moja Komenda 
 * [Test cases](https://drive.google.com/file/d/1cyyJtZ-ceEh56yPEw-0srHFvIMFtNmWh/view?usp=sharing) 
 ## MY BUGS
 ## MY BUGS FOR Bonito.pl

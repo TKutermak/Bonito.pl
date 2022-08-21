@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am always enthusiastic about learning new things. Love to analyzing and solving problems. I think I am a good team player but I also appreciate moments of working alone.
+Fan of fantasy and Sci-Fi worlds. Lover of logic and strategic games. I am always enthusiastic about learning new things. Love to analyzing and solving problems. I think I am a good team player but I also appreciate moments of working alone.
 ## TOOLS
 * Jira
 * TestLink

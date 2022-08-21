@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am 
+I am always enthusiastic about learning new things. Love to analyzing and solving problems. I think I am a good team player but I also appreciate moments of working alone.
 ## TOOLS
 * Jira
 * TestLink
@@ -12,7 +12,8 @@ I am
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 14.08.2022 
+Excel średniozaawansowany z wprowadzeniem do VBA 31.05.2019
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
@@ -41,8 +42,8 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * [Klikając ikonę WWW użytkownik zostaje przeniesiony do adresu w przeglądarce, który nie istnieje](https://docs.google.com/document/d/1KGZd7AMU-IRyW8oDelzuMRhmnVymWG--/edit?usp=sharing&ouid=117692622566299550826&rtpof=true&sd=true)
 ## MY REPORT
 ## MY REPORT FOR Bonito.pl
-* [Report PDF](Link do raportu PDF)
+* [Report PDF](https://drive.google.com/file/d/1KJSnnGSyo0jIMj6jtKPoDhAmOBQYWX7N/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1JWtwNTVY_UBQHmIY33aC6swT0zc6byDA/edit?usp=sharing&ouid=117692622566299550826&rtpof=true&sd=true) 
 ## MY REPORT FOR Moja Komenda 
-* [Report PDF](Link do raportu PDF)
+* [Report PDF](https://drive.google.com/file/d/1epa3A6EkY7TmeHYQ0ehAcz9b_l9KpgQC/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/12Ea9gkWGyYMxRy3a3H0xfi3D5wUSet1b/edit?usp=sharing&ouid=117692622566299550826&rtpof=true&sd=true) 
